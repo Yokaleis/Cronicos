@@ -30,7 +30,6 @@ export const serviciosOptions = [
 ];
 
 export const aseguradorasOptions = [
-  { value: "", label: "Todas las aseguradoras" },
   { value: "PSEM", label: "PSEM" },
   { value: "SEGUROS_CARACAS", label: "SEGUROS CARACAS" },
   { value: "VENEMERGENCIA", label: "VENEMERGENCIA" },
@@ -38,7 +37,6 @@ export const aseguradorasOptions = [
 ];
 
 export const contratantesOptions = [
-  { value: "", label: "Todos los contratantes" },
   { value: "PETRO_PIAR", label: "Petro Piar 1532697" },
   { value: "PDVSA", label: "PDVSA" },
   { value: "CANTV", label: "CANTV" },
